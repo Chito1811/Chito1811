@@ -9,4 +9,9 @@
 
 ###    VOLRACE 
 
-<img src="https://yt3.googleusercontent.com/vH5ie2pWOUM4qR0aE-2sxlz1svysmP3ZSBZqkEqrBgiQIpTZRHbHuF1Ci1x2g-odgTS00Amx2Q=s900-c-k-c0x00ffffff-no-rj" alt="Descripción de la imagen" width="50" height="50">
+<img src="https://yt3.googleusercontent.com/vH5ie2pWOUM4qR0aE-2sxlz1svysmP3ZSBZqkEqrBgiQIpTZRHbHuF1Ci1x2g-odgTS00Amx2Q=s900-c-k-c0x00ffffff-no-rj" alt="Descripción de la imagen" width="100" height="100">
+
+### MOTIVATION
+
+<p>This website was inspired by the real organization of Volrace: <a href="https://volrace.com/">Oficial Web Page</a> <br>
+    An orgnaziation that organizes different types of motorsports events.</p>
