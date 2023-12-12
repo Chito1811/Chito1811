@@ -26,7 +26,7 @@
 5. GALLERY 🎞️
 6. CONTACT 📬
 
-<img src="https://volrace.com/wp-content/uploads/2021/12/volrace-gasolina-venas.jpg" alt="Descripción de la imagen" width="500" height="500">
+<img src="https://volrace.com/wp-content/uploads/2021/12/volrace-gasolina-venas.jpg" alt="Descripción de la imagen" width="800" height="500">
 
 
 
